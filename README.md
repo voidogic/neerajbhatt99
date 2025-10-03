@@ -1,9 +1,9 @@
-# 👋 Hi!  
+# 👋 Hi, I'm Neeraj Bhatt!  
 
 🚀 Aspiring Software Engineer | Full Stack Developer | MCA @ NIT Jamshedpur  
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/neerajbhatt99) 
-[![X (Twitter)](https://img.shields.io/badge/X-Follow-000000?logo=twitter&logoColor=white)](https://x.com/your_x_profile)  
+[![X (Twitter)](https://img.shields.io/badge/X-Follow-000000?logo=twitter&logoColor=white)](https://x.com/voidogic)  
 
 ![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
@@ -60,7 +60,7 @@
 
 ## 🌐 Socials  
 
-[![X (Twitter)](https://img.shields.io/badge/X-Follow-000000?logo=twitter&logoColor=white)](https://x.com/your_x_profile)  
+[![X (Twitter)](https://img.shields.io/badge/X-Follow-000000?logo=twitter&logoColor=white)](https://x.com/voidogic)  
 
 ---
 
