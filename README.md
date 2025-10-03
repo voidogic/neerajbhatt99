@@ -1,67 +1,15 @@
-# 👋 Hi!  
 
-🚀 Aspiring Software Engineer | Full Stack Developer | NIT Jamshedpur  
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/voidogic) 
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/neerajbhatt99) 
-[![X (Twitter)](https://img.shields.io/badge/X-Follow-000000?logo=twitter&logoColor=white)](https://x.com/voidogic)  
-
-![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
----
-
-## 🔥 Recent Projects  
-
-- **Placement Management System** 🎯  
-  Full-stack web application to automate campus placement activities for Training & Placement Coordinators.  
-  *Tech:* Next.js, Node.js, Express.js, MongoDB, TailwindCSS, JWT  
-
-- **CodeCipher** 💻  
-  A collaborative coding platform where multiple users can write, edit, and execute code in real-time with secure room-based collaboration.  
-  *Tech:* React.js, Node.js, Socket.io, Express.js, MongoDB  
-
-- **Employment Gateway** 🌐  
-  Job portal system designed for job seekers and recruiters with secure authentication and posting features.  
-  *Tech:* MERN stack + scalable deployment (Render + Vercel)  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=voidogic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=voidogic&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=voidogic&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=voidogic&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack  
-
-**Programming Languages**  
-`C` `C++` `Java` `Python` `JavaScript`  
-
-**Frontend**  
-`HTML5` `CSS3` `TailwindCSS` `Bootstrap` `jQuery` `Framer Motion` `React.js` `Next.js`  
-
-**Backend**  
-`Node.js` `Express.js` `Socket.io`  
-
-**Databases**  
-`MongoDB` `MySQL` `SQL`  
-
-**DevOps & Tools**  
-`Git` `GitHub` `Postman` `Figma` `Vercel` `Render` `Docker`  
-
-**Data Science Libraries**  
-`NumPy` `Pandas` `Matplotlib` `Seaborn`  
-
-**Containerization**  
-`Docker`  
-
----
-
-## 📈 GitHub Stats  
-
-![Neeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerajbhatt99&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajbhatt99&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=neerajbhatt99&theme=tokyonight&hide_border=false)  
-
----
-
-## 🌐 Socials  
-
-[![X (Twitter)](https://img.shields.io/badge/X-Follow-000000?logo=twitter&logoColor=white)](https://x.com/voidogic)  
-
----
-
-💡 *"I believe in building solutions, not just writing code. From brainstorming to deployment — I enjoy the entire journey!"*  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
