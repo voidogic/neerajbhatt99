@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Neeraj Bhatt!  
+# 👋 Hi!  
 
 🚀 Aspiring Software Engineer | Full Stack Developer | MCA @ NIT Jamshedpur  
 
